@@ -18,5 +18,8 @@ website/build
 # node modules
 node_modules
 
+# virtualenv
+.venv/
+
 # trash
 .DS_Store
